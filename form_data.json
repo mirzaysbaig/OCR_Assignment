@@ -1,0 +1,33 @@
+{
+    "patient_name": null,
+    "dob": null,
+    "injection": "YES",
+    "exercise_therapy": "YES",
+    "difficulty_ratings": {
+        "bending": 0,
+        "putting_on_shoes": 0,
+        "sleeping": 0
+    },
+    "pain_symptoms": {
+        "pain": 2,
+        "numbness": 0,
+        "tingling": 6,
+        "burning": 0,
+        "tightness": 0
+    },
+    "patient_changes": {
+        "since_last_treatment": null,
+        "since_start_of_treatment": null,
+        "last_3_days": null
+    },
+    "medical_assistant_data": {
+        "blood_pressure": null,
+        "hr": 0,
+        "weight": 0,
+        "height": null,
+        "spo2": 0,
+        "temperature": null,
+        "blood_glucose": 0,
+        "respirations": 0
+    }
+}
